@@ -1,3 +1,2 @@
--- list all the tables of database passed
--- as argument of mysql command
-SHOW TABLES;
+-- deletes the database hbtn_0c_0 in my MySQL server.
+DROP DATABASE IF EXISTS `hbtn_0c_0`;
